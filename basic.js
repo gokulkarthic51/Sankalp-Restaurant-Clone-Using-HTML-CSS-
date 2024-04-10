@@ -1,0 +1,3 @@
+
+alert("WEBSITE SUCCESFULLY WORKING");
+
